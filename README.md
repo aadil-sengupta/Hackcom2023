@@ -22,5 +22,3 @@ Follow the standard Django setup procedures to migrate the database and run the 
 python manage.py migrate
 python manage.py runserver
 ```
-
-Feel free to customize the README content and the project explanation according to any specific functionalities or features unique to your project.
